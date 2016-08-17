@@ -1,0 +1,26 @@
+{
+  "name": "prj",
+  "version": "1.0.0",
+  "description": "PRJ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubarnstokr/prj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dubarnstokr/prj/issues"
+  },
+  "homepage": "https://github.com/dubarnstokr/prj#readme",
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.13.2"
+  }
+}
